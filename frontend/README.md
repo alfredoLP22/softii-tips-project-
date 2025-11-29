@@ -34,7 +34,7 @@ Para correr la aplicación de frontend, sigue estos pasos:
 
 ### Prerrequisitos
 
-Asegúrate de que el [Backend](https://www.google.com/search?q=#-backend-gestión-de-propinas-simulación) esté corriendo en http://localhost:3000.
+Asegúrate de que el [Backend](https://github.com/alfredoLP22/softii-tips-project-.git) esté corriendo en http://localhost:3000.
 
 ### Pasos de Configuración
 

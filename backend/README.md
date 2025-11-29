@@ -34,7 +34,7 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) (versión 18+) y np
 
 ### **Pasos de Configuración**
 
-1.  **Clonar el repositorio:**git clone \[URL-DEL-REPOSITORIO\]cd backend
+1.  **Clonar el repositorio:**git clone \[[URL-DEL-REPOSITORIO](https://github.com/alfredoLP22/softii-tips-project-.git)\]cd backend
 2.  **Instalar dependencias:**npm install
 3.  Compilar y ejecutar (en modo desarrollo):Usualmente, usarías ts-node o nodemon para desarrollo.npm run dev# O para producción:# npm run build && npm start
 
