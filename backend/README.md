@@ -17,9 +17,9 @@ Este es el backend simulado para la aplicación de gestión de pago de propinas,
 ├── src/
 │   ├── routes/          # Define las rutas de la API (e.g., /api/tips)
 │   ├── services/        # Contiene la lógica de negocio (e.g., tip.service.ts)
-│   ├── models/          # Define la estructura de datos (e.g., Tip.model.ts)
+│   ├── models/          # Define la estructura de datos
 │   ├── app.ts           # Configuración y arranque de Express
-│   └── index.ts         # Punto de entrada de la aplicación (Inicia el servidor)
+│   └── server.ts         # Punto de entrada de la aplicación (Inicia el servidor)
 ├── package.json
 ├── package-lock.json
 └── README.md
