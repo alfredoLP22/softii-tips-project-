@@ -43,7 +43,7 @@
                 </p>
                 <button
                   @click="toggleEditMode(true)"
-                  class="text-gray-400 hover:text-red-500 transition-colors p-1"
+                  class="text-gray-400 hover:text-red-500 transition-colors p-1 cursor-pointer"
                   title="Editar cantidad"
                 >
                   <svg
@@ -53,7 +53,7 @@
                     fill="currentColor"
                   >
                     <path
-                      d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zm-1.5 7.5a2 2 0 012-2H15a2 2 0 012 2v2a2 2 0 01-2 2h-1.414l-2.828 2.828-.707-.707 2.121-2.121H13a2 2 0 01-2-2v-2z"
+                      d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zM11.379 5.793L3 14.172V17h2.828l8.38-8.379-2.83-2.828z"
                     />
                   </svg>
                 </button>
